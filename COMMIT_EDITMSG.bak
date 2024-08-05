@@ -1,0 +1,62 @@
+chore(release): Bump to version 0.5.2 (#6080)
+
+Co-authored-by: Hsiao-nan Cheung <niheaven@gmail.com>
+Co-authored-by: Matt Cargile <74641867+mattcargile@users.noreply.github.com>
+Co-authored-by: ccyykkcyk <91893497+ccyykkcyk@users.noreply.github.com>
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Author:    Hsiao-nan Cheung <niheaven@gmail.com>
+# Date:      Tue Jul 30 15:34:41 2024 +0800
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   CHANGELOG.md
+#	modified:   lib/core.ps1
+#	modified:   lib/install.ps1
+#	modified:   lib/json.ps1
+#	modified:   libexec/scoop-alias.ps1
+#	modified:   libexec/scoop-hold.ps1
+#	modified:   libexec/scoop-virustotal.ps1
+#	modified:   supporting/validator/bin/Newtonsoft.Json.Schema.dll
+#	modified:   supporting/validator/bin/Scoop.Validator.dll
+#	modified:   supporting/validator/bin/checksum.sha256
+#	modified:   supporting/validator/bin/checksum.sha512
+#	modified:   supporting/validator/packages.config
+#	modified:   supporting/validator/validator.csproj
+#
+# Untracked files:
+#	.VirtualBox/
+#	.bash_history
+#	.config/
+#	.gitconfig
+#	.keras/
+#	.lesshst
+#	.minttyrc
+#	.obs64/
+#	.ssh/
+#	AppData/
+#	Contacts/
+#	Desktop/
+#	Documents/
+#	Downloads/
+#	Favorites/
+#	Links/
+#	Music/
+#	NTUSER.DAT
+#	NTUSER.DAT{a1d15fbc-4ff2-11ef-bbe5-8c554a4d7307}.TM.blf
+#	NTUSER.DAT{a1d15fbc-4ff2-11ef-bbe5-8c554a4d7307}.TMContainer00000000000000000001.regtrans-ms
+#	NTUSER.DAT{a1d15fbc-4ff2-11ef-bbe5-8c554a4d7307}.TMContainer00000000000000000002.regtrans-ms
+#	Pictures/
+#	Saved Games/
+#	Searches/
+#	Videos/
+#	desktop.ini
+#	ntuser.dat.LOG1
+#	ntuser.dat.LOG2
+#	ntuser.ini
+#	scoop/
+#

@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 36b3841b53192667ba6c8d597a94cbcee3ca3665 MParkin7LTS <ltsproductionstudios@gmail.com> 1722776025 -0600	commit (initial): initial commit
+36b3841b53192667ba6c8d597a94cbcee3ca3665 859d1db51bcc840903d5280567846ae2f7207ca2 MParkin7LTS <ltsproductionstudios@gmail.com> 1722783473 -0600	checkout: moving from PrimeRoot to master
+859d1db51bcc840903d5280567846ae2f7207ca2 859d1db51bcc840903d5280567846ae2f7207ca2 MParkin7LTS <ltsproductionstudios@gmail.com> 1722783473 -0600	reset: moving to origin/master
+859d1db51bcc840903d5280567846ae2f7207ca2 ee0deeecaec590c221dabf3799342672e43e8864 MParkin7LTS <ltsproductionstudios@gmail.com> 1722785162 -0600	commit (amend): chore(release): Bump to version 0.5.2 (#6080)
+ee0deeecaec590c221dabf3799342672e43e8864 be56faf29016a3bb82f5bc15d3e4621930ea7a38 MParkin7LTS <ltsproductionstudios@gmail.com> 1722785235 -0600	reset: moving to HEAD~
